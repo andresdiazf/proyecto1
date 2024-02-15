@@ -1,16 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>titulo del post</title>
-    <link rel="stylesheet" href="css/styles.css" />
+    <title>Iniciar sesión</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
-    <h1> Este es mi primer blogpost</h1>
-    <p> este es el parrafo de inicio</p>
+
+
+    <form action="/login" method="post">
+        <h2>Iniciar sesión</h2>
+        <input type="text" name="username" placeholder="Usuario" required>
+        <input type="password" name="password" placeholder="Contraseña" required>
+        <input type="submit" value="Iniciar sesión">
+    </form>
+
 </body>
 
 </html>
