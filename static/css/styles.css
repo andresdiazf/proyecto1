@@ -9,6 +9,13 @@ body {
     height: 100vh;
 }
 
+#cabecera {
+    background-color: darkcyan;
+    color: #ccc;
+    font-weight: bolder;
+    padding: 0.5em
+}
+
 form {
     background-color: #fff;
     padding: 20px;
