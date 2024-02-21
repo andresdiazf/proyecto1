@@ -6,4 +6,6 @@ seguimos aprendiendo de programacion y git & githup
 
 esta es una prueba donde se clono el repositorio, para colaborar en el proyecto con otro usuario llamado andrechotech. 
 
+actalizo esta historia porque repeti el proceso
+
 agregamos este nuevo comentario par aprobar como se funciona el checkout
