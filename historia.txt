@@ -9,3 +9,7 @@ esta es una prueba donde se clono el repositorio, para colaborar en el proyecto 
 actalizo esta historia porque repeti el proceso
 
 agregamos este nuevo comentario par aprobar como se funciona el checkout
+
+esta es una ACTUALIZACION EN MODO OPENSOURCE del curso de platzi, aqui andrechotech ya no tiene permisos en el proyecto
+
+
