@@ -61,8 +61,7 @@ input[type="submit"]:hover {
     padding: 1em;
 }
 
-#cabecera #autotesla {
-    width: 50%;
+#autotesla {
     height: auto;
     vertical-align: middle;
 }
