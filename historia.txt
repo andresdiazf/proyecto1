@@ -14,5 +14,5 @@ esta es una ACTUALIZACION EN MODO OPENSOURCE del curso de platzi, aqui andrechot
 
 probando rebase -> Master 1 
 
-master 2
+master 2.
 
