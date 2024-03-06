@@ -12,4 +12,6 @@ agregamos este nuevo comentario par aprobar como se funciona el checkout
 
 esta es una ACTUALIZACION EN MODO OPENSOURCE del curso de platzi, aqui andrechotech ya no tiene permisos en el proyecto
 
+probando rebase -> Master 1 
+
 
